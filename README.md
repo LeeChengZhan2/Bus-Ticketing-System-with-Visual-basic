@@ -1,5 +1,5 @@
-# Bus-Ticketing-System-with-Visual-basic
-The attach file is the assignment I did with other 4 teammate when I was studying bachelor of science in managenment mathematics with computing at Tun Abdul Rahman University College. This assignment is do a bus ticket ordering system program for specially company named Bolt’s Sdn Bhd and this assignment is code by Visual Basic.
+# Bus Ticketing System with Visual Basic
+The attach file is the assignment I did with other 4 teammate when I was studying bachelor of science in managenment mathematics with computing at Tun Abdul Rahman University College. This assignment is to do a bus ticket ordering system program for specially company named Bolt’s Sdn Bhd and this assignment is code by Visual Basic.
 
 ### Module
 This assignment contain 5 module which are Login Module, Staff Module, Buses Detail Module:, Bus Scheduling Module and Booking and Payment Module.
